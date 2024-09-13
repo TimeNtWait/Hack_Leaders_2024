@@ -28,6 +28,7 @@ https://vk.com/leaders_hack?offset=20&own=1
 * Описание решения.docx - Описание решения 
 * Фичи ЛЦТ Сбер 2024.xlsx - описание фичей
 * Анализ экспериментов.xlsx - Результаты экспериментов
+* Финал Преза ЛЦТ 2024.pptx - презентация решения
 
 ### Документация
 [Описание решения](https://docs.google.com/document/d/1BLEOxWLion65820VTbzDnzD_MNWplLjiPMyXjs5G6Ko/edit?usp=sharing)  
